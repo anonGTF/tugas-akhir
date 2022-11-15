@@ -10,7 +10,7 @@ apply plugin: 'kotlin-parcelize'
 apply plugin: "realm-android"
 
 android {
-    namespace 'com.swipe.mobile'
+    namespace 'com.galih.rekognisikarakterarab'
     compileSdk 32
 
     defaultConfig {
