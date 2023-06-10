@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570864863890",
+    "project_id": "arabicrecognition-c9cfa",
+    "storage_bucket": "arabicrecognition-c9cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570864863890:android:222031a0766dfd03d5344b",
+        "android_client_info": {
+          "package_name": "com.galih.makhrajulhuruf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570864863890-prvib8lejdaaki0m8002r5qk87jejjtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZp08obuDWbHoUeBXH4820DvV3zosk1t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570864863890-prvib8lejdaaki0m8002r5qk87jejjtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
